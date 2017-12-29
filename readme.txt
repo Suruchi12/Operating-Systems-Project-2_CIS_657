@@ -1,7 +1,5 @@
 Project -2
 
-Suruchi Singh
-
 Program Arguments:
 Unzip the file Project2 into your workspace and use the option new and project from existing workspace to run in IntelliJ
 for eclipse
