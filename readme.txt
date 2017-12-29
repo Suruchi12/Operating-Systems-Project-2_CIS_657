@@ -1,24 +1,28 @@
-Project -2
+# Virtual Memory Management
 
-Program Arguments:
+#### Operating Systems
+#### CIS 657
+#### Project 2
+
+## Program Arguments:
 Unzip the file Project2 into your workspace and use the option new and project from existing workspace to run in IntelliJ
 for eclipse
 For running this project, Create a new project from an existing source and uncheck the "use default location" box and find the directory where your project is.
 
 
-My program arguements used to run the program
+## My program arguements used to run the program
 IDE Used:IntelliJ.Eclipse
 -x /Users/suruchisingh/Desktop/POS/Project2/project2/test/matmult,/Users/suruchisingh/Desktop/POS/Project2/project2/test/sort
 Output of the program can be found in output.txt
-
 Runs for two files when separated by comma 
 
+
+## Workings of the Project
 
 Implemented the following in this project:
 1.Task, 2.1 Swap Space, 2.2 Page Fault Handling, 2.3 Page Replacement Algorithm
 
 3. Dynamic Linkage has been explained below
-
 
 Reduced Ram Size to 32 in Machine.java
 create a swapspace file which is an openfile object  and a counter to index this file
