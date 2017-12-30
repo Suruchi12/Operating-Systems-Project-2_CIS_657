@@ -52,7 +52,8 @@ For disk clean up, we have cleared the disk of the pages and also zeroed out all
 
 
 
-******Dynamic Linkage******
+***Dynamic Linkage***
+
 Dynamic Linking
 ----------------
 There usually is a common library package that is shared by all the processes and only a single copy of this is kept in the memory.
